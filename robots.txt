@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wipeout-suit.vercel.app/sitemap.xml
